@@ -1,0 +1,7 @@
+{
+  "name": "sydney-maxing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sydney Maxing — installable PWA with a live AI concierge for Sydney 2027.",
+  "type": "module"
+}
